@@ -18,7 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavedYusra&theme=tokyonight&layout=compact&langs_count=8)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JavedYusra&theme=github-compact)
+![Yusra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavedYusra&show_icons=true&theme=radical)
+
 
 
 
