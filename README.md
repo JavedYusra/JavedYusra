@@ -18,6 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavedYusra&theme=tokyonight&layout=compact&langs_count=8)
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JavedYusra&theme=github-compact)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -27,5 +30,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JavedYusra&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
