@@ -18,7 +18,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JavedYusra&theme=tokyonight&layout=compact&langs_count=8)
 
 
-![Yusra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavedYusra&show_icons=true&theme=radical)
 
 
 
