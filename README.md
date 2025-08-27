@@ -31,11 +31,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JavedYusra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👀 Visitors
 
-<p >
-  <img src="https://komarev.com/ghpvc/?username=almasxjaved&style=flat-square&color=blue" alt="Profile Views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer"/>
 </p>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
