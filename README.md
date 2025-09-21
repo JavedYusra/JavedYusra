@@ -1,6 +1,5 @@
 ### Hi, I'm Yusra!
 
-Software Engineering student at HITEC University</br>
 Learning Python<br>
 Skilled in HTML, CSS, JavaScript, Java, SQL</br>
 I write about everything that inspires me, from tech to thoughts, at [MYREPOSITE](www.myreposite.wordpress.com)</br>
