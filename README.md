@@ -1,8 +1,7 @@
-  <p><img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" alt="alt README header"></p>
-<h2 >Commiting to AI</h2>
+<h2 >I do Stuff</h2>
 <p>🔭 working on something cool</p>
 <p>🌎 Check my <a href="https://www.myreposite.wordpress.com/">blogs</a></p>
-<p>Feel free to reach out 💬</p>
+<p>💬 Feel free to reach out </p>
 
 
 
