@@ -1,8 +1,9 @@
-### Hi, I'm Yusra!
+  <p><img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" alt="alt README header"></p>
+<h2 >Commiting to AI</h2>
+<p>🔭 working on something cool</p>
+<p>🌎 Check my <a href="https://www.myreposite.wordpress.com/">blogs</a></p>
+<p>Feel free to reach out 💬</p>
 
-Learning Python<br>
-Skilled in HTML, CSS, JavaScript, Java, SQL</br>
-I write about everything that inspires me, from tech to thoughts, at [MYREPOSITE](www.myreposite.wordpress.com)</br>
 
 
 ## 🌐 Social:
