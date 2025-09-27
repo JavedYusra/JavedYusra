@@ -1,7 +1,13 @@
-<h2 >I do Stuff</h2>
-<p>🔭 working on something cool</p>
-<p>🌎 Check my <a href="https://www.myreposite.wordpress.com/">blogs</a></p>
-<p>💬 Feel free to reach out </p>
+<h1 align="center">I'm javedyusra</h1>
+<h3 align="center">exploring ethical and sustainable tech</h3>
+
+- 🔭 I’m working on **something cool**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 📝 I regularly write articles on [www.myreposite.wordpress.com](www.myreposite.wordpress.com)
+
+- ⚡ **I don't like talking**
 
 
 
