@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [www.myreposite.wordpress.com](www.myreposite.wordpress.com)
 
-- ⚡ **I don't like talking**
+- ⚡ **I don't like gabbing**
 
 
 
