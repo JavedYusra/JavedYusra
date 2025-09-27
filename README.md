@@ -1,9 +1,8 @@
 <h1 align="center">I'm javedyusra</h1>
 <h3 align="center">exploring ethical and sustainable tech</h3>
 
-- 🔭 I’m working on **something cool**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and working on **something cool**
 
 - 📝 I regularly write articles on [www.myreposite.wordpress.com](www.myreposite.wordpress.com)
 
